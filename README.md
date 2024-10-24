@@ -35,7 +35,7 @@ Other work will include adjustments for other platforms/forms of batching
 Profiling of the work
 
 ## External links
----
+
 
 **The relevant Jira tickets are as follows:**
 
