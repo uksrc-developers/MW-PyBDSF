@@ -63,8 +63,8 @@ The details on how to obtain and build the ddf-pipeline conatiner are available 
 
 [ddf-pipeline GitHub](https://github.com/mhardcastle/ddf-pipeline)
 
+
 ## List of developers and Collaborators
----
 
 Barkus, B.
 
