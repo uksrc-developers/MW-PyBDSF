@@ -32,8 +32,9 @@ A description of the repo and and the code in it
 ## Future Work
 
 
-Other work will include adjustments for other platforms/forms of batching
-Profiling of the work
+These scripts focus on batching PyBDSF on Azimuth using a slurm cluster. There is the potential to adapt and/or generate scripts which allow for batching across different platforms.
+There is opportunities for profiling and optimisation work to be carried.
+
 
 ## External links
 
