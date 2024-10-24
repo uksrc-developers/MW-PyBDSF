@@ -37,7 +37,7 @@ Profiling of the work
 ## External links
 ---
 
-# The relevant Jira tickets are as follows:
+**The relevant Jira tickets are as follows:**
 
 * [TEAL-439: PyBDSF up and running on UH with test datasets](https://jira.skatelescope.org/browse/TEAL-439)
    * This ticket covers the exploratory works into PyBDSF
@@ -49,7 +49,7 @@ Profiling of the work
    * This ticket covers a demo of the work done on PyBDSF
    * The final comment includes the details to veiw this demo
 
-# PyBDSF
+**PyBDSF**
 
 Details about PyBDSF can be obtained from:
 
@@ -57,7 +57,7 @@ Details about PyBDSF can be obtained from:
 
 Mohan N., Rafferty D., 2015, PyBDSF: Python Blob Detection and Source Finder, Astrophysics Source Code Library, record ascl:1502.007
 
-# ddf-pipeline container
+**ddf-pipeline container**
 
 The details on how to obtain and build the ddf-pipeline conatiner are available at:
 
