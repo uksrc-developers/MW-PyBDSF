@@ -26,7 +26,7 @@ working_directory
 │   ├── *mosaic_number*/
 │   ├── *mosaic_number*/
 │   ├── *mosaic_number*/
-│   │ 
+│   ... 
 
 ```
 
