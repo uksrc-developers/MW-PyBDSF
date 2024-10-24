@@ -49,17 +49,15 @@ Profiling of the work
    * This ticket covers a demo of the work done on PyBDSF
    * The final comment includes the details to veiw this demo
 
-*PyBDSF*
 
-Details about PyBDSF can be obtained from:
+*Details about PyBDSF can be obtained from:*
 
 [PyBDSF: Read the Docs](https://pybdsf.readthedocs.io/en/latest/index.html)
 
 Mohan N., Rafferty D., 2015, PyBDSF: Python Blob Detection and Source Finder, Astrophysics Source Code Library, record ascl:1502.007
 
-*ddf-pipeline container*
 
-The details on how to obtain and build the ddf-pipeline conatiner are available at:
+*The details on how to obtain and build the ddf-pipeline conatiner are available at:*
 
 [ddf-pipeline GitHub](https://github.com/mhardcastle/ddf-pipeline)
 
