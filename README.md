@@ -18,6 +18,18 @@ A description of the repo and and the code in it
 
 
 
+```bash
+
+working_directory
+├── PyBDSF
+│   ├── ConcatCats/
+│   ├── *mosaic_number*/
+│   ├── *mosaic_number*/
+│   ├── *mosaic_number*/
+│   │ 
+
+```
+
 
 ## Inputs and outputs
 
