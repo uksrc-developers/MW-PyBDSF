@@ -40,14 +40,14 @@ Profiling of the work
 # The relevant Jira tickets are as follows:
 
 * [TEAL-439: PyBDSF up and running on UH with test datasets](https://jira.skatelescope.org/browse/TEAL-439)
- * This ticket covers the exploratory works into PyBDSF
- * Corresponding confluence page: [link](https://confluence.skatelescope.org/display/SRCSC/Running+PyBDSF+on+UHHPC)
+   * This ticket covers the exploratory works into PyBDSF
+   * Corresponding confluence page:   [Running PyBDSF on UHHPC](https://confluence.skatelescope.org/display/SRCSC/Running+PyBDSF+on+UHHPC)
 * [TEAL-440: PyBDSF work on Azimuth with test set and larger sample](https://jira.skatelescope.org/browse/TEAL-440)
- * This ticket covers the batching work
- * Corresponding confluence page: [link](https://confluence.skatelescope.org/display/SRCSC/Batch+Running+PyBDSF+on+Azimuth)
+   * This ticket covers the batching work
+   * Corresponding confluence page:   [Batch Running PyBDSF on Azimuth](https://confluence.skatelescope.org/display/SRCSC/Batch+Running+PyBDSF+on+Azimuth)
 * [TEAL-516: PyBDSF Demo](https://jira.skatelescope.org/browse/TEAL-516)
- * This ticket covers a demo of the work done on PyBDSF
- * The final comment includes the details to veiw this demo
+   * This ticket covers a demo of the work done on PyBDSF
+   * The final comment includes the details to veiw this demo
 
 # PyBDSF
 
