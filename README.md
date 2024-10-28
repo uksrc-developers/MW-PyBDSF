@@ -5,9 +5,9 @@ This repository contains all the code relevant to running PyBDSF as part of the 
 
 ## Introduction
 
+This repository contains all the files needed to batch run PyBDSF ([PyBDSF Link](https://pybdsf.readthedocs.io/en/latest/index.html)) on a set of image mosaics as part of the MULTIWAVE Demonstrator Case. This version of PyBDSF is contained within the ddf-pipeline ([ddf-pipeline GitHub](https://github.com/mhardcastle/ddf-pipeline)) and will output a radio sources catalouge and Gaussian regions catalogue for each mosaic inputed into the code, as well as the final collated radio source and Gaussian region catalogue, for further use in later steps of the MULTIWAVE pipeline.
 
-Need to include the purpose of the code in the repo
-A description of the repo and and the code in it
+
 
 ## Hardware and Software
 
