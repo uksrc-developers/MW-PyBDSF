@@ -5,13 +5,19 @@ This repository contains all the code relevant to running PyBDSF as part of the 
 
 ## Introduction
 
-This repository contains all the files needed to batch run PyBDSF ([PyBDSF Link](https://pybdsf.readthedocs.io/en/latest/index.html)) on a set of image mosaics as part of the MULTIWAVE Demonstrator Case. This version of PyBDSF is contained within the ddf-pipeline ([ddf-pipeline GitHub](https://github.com/mhardcastle/ddf-pipeline)) and will output a radio sources catalouge and Gaussian regions catalogue for each mosaic inputed into the code, as well as the final collated radio source and Gaussian region catalogue, for further use in later steps of the MULTIWAVE pipeline.
+This repository contains all the files needed to batch run PyBDSF ([PyBDSF Link](https://pybdsf.readthedocs.io/en/latest/index.html)) on a set of image mosaics as part of the MULTIWAVE Demonstrator Case. This version of PyBDSF is contained within the ddf-pipeline ([ddf-pipeline GitHub](https://github.com/mhardcastle/ddf-pipeline)) and will output a radio sources catalouge and Gaussian regions catalogue for each mosaic inputed into the code, as well as the final collated radio source and Gaussian region catalogue for further use in later steps of the MULTIWAVE pipeline.
 
 
 
 ## Hardware and Software
 
+All the software required to run this is contained in the ddf-pipeline container. This container has the correct environment for running the required scripts, and contains the scripts. Instructions on how to build the container can be found at the ddf-pipeline GitHub (link in the intorduction and below).
 
+The batching is currently run on a slurm cluster with the `SBATCH` code set to the minimum requirements of:
+* 8 nodes
+* 26 CPUs per node
+* 40 GB RAM per node
+* Storage will vary depending on the size of the mosaics. LoTSS DR2 minimum storage is 3.5 TB.
 
 
 ## Directory Structure
